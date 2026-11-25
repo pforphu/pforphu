@@ -85,6 +85,12 @@ Analyzed South Australia incident data from 2022-2026 using Python to identify t
 risk patterns, and factors affecting public safety.
 </p>
 
+<p>
+<a href="https://github.com/pforphu/SA-Incidents-Analysis-2022-2026---Python" target="_blank">
+View Project on GitHub →
+</a>
+</p>
+
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
