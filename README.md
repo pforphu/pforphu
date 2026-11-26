@@ -43,7 +43,7 @@ View Project on GitHub →
 </p>
 
 <p>
-<a href="https://app.powerbi.com/groups/me/reports/fd23adc5-41a3-4f66-ade8-4fbf930b9fa4?experience=power-bi" target="_blank">
+<a href="https://app.powerbi.com/reportEmbed?reportId=fd23adc5-41a3-4f66-ade8-4fbf930b9fa4&autoAuth=true&ctid=c06678ed-6ec9-4d2c-917f-a1d1b7abfd18" target="_blank">
 View Project on PowerBI Service →
 </a>
 </p>
