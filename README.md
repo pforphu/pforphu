@@ -42,6 +42,12 @@ View Project on GitHub →
 </a>
 </p>
 
+<p>
+<a href="https://app.powerbi.com/groups/me/reports/fd23adc5-41a3-4f66-ade8-4fbf930b9fa4?experience=power-bi" target="_blank">
+View Project on PowerBI Service →
+</a>
+</p>
+
 <img src="Pics/Summary.png" width="550" alt="Business Analysis">
 
 <hr>
