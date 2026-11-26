@@ -67,7 +67,7 @@ View Project on GitHub →
 
 <p>
 <a href="https://app.powerbi.com/reportEmbed?reportId=3046882f-1fc1-46f9-8658-235042adcc34&autoAuth=true&ctid=c06678ed-6ec9-4d2c-917f-a1d1b7abfd18" target="_blank">
-View Project on GitHub →
+View Project on PowerBI Service →
 </a>
 </p>
 <img src="Pics/Overview.png" width="550" alt="HR Analysis">
