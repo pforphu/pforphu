@@ -29,7 +29,10 @@ My hands-on work spans data modeling, querying, and analytics across **SQL**, **
       
 ## 🔭 What I Have Done  
 
-<h3>Business Sales Analysis - Power BI</h3>
+<h3 style="display: inline-flex; align-items: center; gap: 0.55rem; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=white" alt="Power BI Badge" style="display: block;">
+  <span>Business Sales Analysis</span>
+</h3>
 
 <p>
 Built an interactive dashboard to monitor business health, analyze marketing campaign performance,
@@ -37,7 +40,7 @@ track inventory levels, and manage product portfolio performance.
 </p>
 
 <p>
-<a href="https://github.com/pforphu/Business-Analyst---Power-BI-" target="_blank">
+<a href="https://github.com/pforphu/Business-Analyst---Power-BI-" target="_blank"> 
 View Project on GitHub →
 </a>
 </p>
@@ -52,7 +55,10 @@ View Project on PowerBI Service →
 
 <hr>
 
-<h3>HR Analysis - Power BI</h3>
+<h3 style="display: inline-flex; align-items: center; gap: 0.55rem; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=white" alt="Power BI Badge" style="display: block;">
+  <span>HR Analysis</span>
+</h3>
 
 <p>
 Developed HR dashboards to analyze workforce trends, employee retention,
@@ -74,8 +80,12 @@ View Project on PowerBI Service →
 
 <hr>
 
-<h3>E-Commerce SQL Project</h3>
-
+<h3 style="display: inline-flex; align-items: center; gap: 0.55rem; flex-wrap: wrap; margin: 0;">
+  <img src="https://img.shields.io/badge/SQL-Analytics-4479A1?style=flat&logo=mysql&logoColor=white"
+       alt="SQL Badge"
+       style="display: block;">
+  <span>E-Commerce SQL Project</span>
+</h3>
 <p>
 Used SQL to clean, transform, and analyze e-commerce data, generating insights into customer behavior,
 sales performance, and business operations.
