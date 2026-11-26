@@ -27,7 +27,7 @@ My hands-on work spans data modeling, querying, and analytics across **SQL**, **
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### 🏆 [Check Out My Full Portfolio Website](https://pforphu.github.io/)
       
-## 🔭 What I'm Currently Working On 
+## 🔭 What I Have Done  
 
 <h3>Business Sales Analysis - Power BI</h3>
 
@@ -112,7 +112,11 @@ View Project on GitHub →
   <img src="https://img.shields.io/badge/SQL-Intermediate -4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=white" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <br>
+  <img src="https://img.shields.io/badge/Databricks-Intermediate-FF3621?style=flat&logo=databricks&logoColor=white" alt="Databricks Skill Badge">
+ <img src="https://img.shields.io/badge/Microsoft%20Fabric-Intermediate-117865?style=flat&logo=microsoft&logoColor=white" alt="Microsoft Fabric Skill Badge">
 </p>
+
 
 #### Programming & Automation
 <p>
