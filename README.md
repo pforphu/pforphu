@@ -1,16 +1,28 @@
 
 ## I'm Duc Tuong Phu Le
 
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/duc-tuong-phu-le-207444168/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:tuongphu.ld@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-  <a href="tel:+61448603795"><img src="https://img.shields.io/badge/Call-0448%20603%20795-blue?style=for-the-badge&logo=phone"></a>
+  <a href="https://www.linkedin.com/in/duc-tuong-phu-le-207444168/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:tuongphu.ld@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="tel:+61448603795"><img src="https://img.shields.io/badge/Call-0448%20603%20795-blue?style=for-the-badge&logo=phone" alt="Phone"></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL--4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI--F2C811?style=flat&logo=powerbi&logoColor=white" alt="Power BI Skill Badge"> 
+  <img src="https://img.shields.io/badge/Excel--217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Python--3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/R--276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <br>
+  <img src="https://img.shields.io/badge/Databricks--FF3621?style=flat&logo=databricks&logoColor=white" alt="Databricks Skill Badge">
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric--117865?style=flat&logo=microsoft&logoColor=white" alt="Microsoft Fabric Skill Badge">
+
+</p>
 ## 🚀 About Me 
 <p>
 
@@ -29,8 +41,10 @@ My hands-on work spans data modeling, querying, and analytics across **SQL**, **
       
 ## 🔭 What I Have Done  
 
-<h3 style="display: inline-flex; align-items: center; gap: 0.55rem; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=white" alt="Power BI Badge" style="display: block;">
+<h3 style="display: inline-flex; align-items: center; gap: 0.55rem; flex-wrap: wrap; margin: 0;">
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=1a1c23&labelColor=F2C811&color=F2C811"
+       alt="Power BI Badge"
+       style="display: block;">
   <span>Business Sales Analysis</span>
 </h3>
 
@@ -55,8 +69,10 @@ View Project on PowerBI Service →
 
 <hr>
 
-<h3 style="display: inline-flex; align-items: center; gap: 0.55rem; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=white" alt="Power BI Badge" style="display: block;">
+<h3 style="display: inline-flex; align-items: center; gap: 0.55rem; flex-wrap: wrap; margin: 0;">
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white&labelColor=F2C811&color=F2C811"
+       alt="Power BI Badge"
+       style="display: block;">
   <span>HR Analysis</span>
 </h3>
 
@@ -81,7 +97,7 @@ View Project on PowerBI Service →
 <hr>
 
 <h3 style="display: inline-flex; align-items: center; gap: 0.55rem; flex-wrap: wrap; margin: 0;">
-  <img src="https://img.shields.io/badge/SQL-Analytics-4479A1?style=flat&logo=mysql&logoColor=white"
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=4479A1&color=4479A1"
        alt="SQL Badge"
        style="display: block;">
   <span>E-Commerce SQL Project</span>
@@ -99,8 +115,12 @@ View Project on GitHub →
 
 <hr>
 
-<h3>South Australia Incident Analysis - Python</h3>
-
+<h3 style="display: inline-flex; align-items: center; gap: 0.55rem; flex-wrap: wrap; margin: 0;">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=3776AB&color=3776AB"
+       alt="Python Badge"
+       style="display: block;">
+  <span>South Australia Incident Analysis - Python</span>
+</h3>
 <p>
 Analyzed South Australia incident data from 2022-2026 using Python to identify trends,
 risk patterns, and factors affecting public safety.
